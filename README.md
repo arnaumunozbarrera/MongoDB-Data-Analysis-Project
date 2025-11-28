@@ -1,5 +1,5 @@
 # MongoDB Data Analysis
-### Autor: 
+### Author: 
 Arnau Muñoz Barrera 
 
 MongoDB Data Analysis and Query performance review.
